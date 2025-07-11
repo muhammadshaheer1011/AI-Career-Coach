@@ -121,6 +121,7 @@ export default function Home() {
               alt={testimonial.author}
               width={40}
               height={40}
+              unoptimized 
               className="rounded-full object-cover border-2 border-primary/20"
               />
             </div>
